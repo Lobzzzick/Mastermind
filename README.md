@@ -1,2 +1,2 @@
 # Mastermind
-Mastermind on arduino uno
+Mastermind game on arduino uno
